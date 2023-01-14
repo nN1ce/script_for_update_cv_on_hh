@@ -2,8 +2,8 @@ import time
 
 from selene.support.shared import browser
 
-LOGIN = "evgeniylukyanov2016@yandex.ru"
-PASSWORD = "qweAsdzxc1"
+LOGIN = "YourLogin"
+PASSWORD = "YourPassword"
 
 
 def first_cv():
